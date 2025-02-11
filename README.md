@@ -1,15 +1,21 @@
 # 📊 Projeto de Análise de Dados - Hackday
 
+[Resultado](https://app.powerbi.com/view?r=eyJrIjoiZDY2YTFhMWMtNDE5OS00YzgxLTk3NzktMjFjMmE1MTVjY2QwIiwidCI6ImU1YjA4ZjY3LWFmNDYtNGUyNy1hY2ZmLTRlOWVjNjcwZDU3NyJ9) 
+
+[Problema de Negócio](https://docs.google.com/document/d/1D2J6ZxdlarTRgX6CaGPWRRhTiqHHk4BPeH8J2fVOwPE/edit?tab=t.0)
+
 ## 📝 Descrição
 
-Este projeto foi desenvolvido durante um Hackday e tem como objetivo realizar uma análise detalhada dos dados extraídos de um banco de dados, aplicando técnicas de tratamento, limpeza e junção de tabelas em Python. O resultado final é exportado para arquivos .csv e utilizado para construir um relatório interativo no Power BI, que apresenta insights estratégicos sobre as vendas de livros por gênero e formato.
+Este projeto foi desenvolvido durante um Hackday promovido pela Comunidade de Data Science (CDS) e tem como objetivo realizar uma análise detalhada dos dados extraídos de um banco de dados, aplicando técnicas de tratamento, limpeza e junção de tabelas em SQL e Python. O resultado final é exportado para arquivos .csv e utilizado para construir um relatório interativo no Power BI, que apresenta insights estratégicos sobre as vendas de livros por gênero e formato.
+
+O desafio utiliza dados da empresa Biblioteca de Insights, uma organização atuante no mercado editorial, para explorar a análise de dados como ferramenta estratégica. A proposta deste projeto é desvendar padrões, identificar oportunidades e apresentar insights práticos que podem transformar a forma como a empresa toma decisões.
 
 
 ## 🏗️ Fluxo do Projeto
 
-1. Extração dos dados: Conexão ao banco de dados e consulta das tabelas relevantes.
+1. *Extração dos dados:* Conexão ao banco de dados e consulta das tabelas relevantes.
 
-2. Tratamento e limpeza:
+2. *Tratamento e limpeza:*
 
     * Remoção de valores nulos e duplicados.
 
@@ -17,11 +23,11 @@ Este projeto foi desenvolvido durante um Hackday e tem como objetivo realizar um
 
     * Transformação de dados para melhor análise.
 
-3. Junção de tabelas: Unificação de datasets para consolidar as informações.
+3. *Junção de tabelas:* Unificação de datasets para consolidar as informações.
 
-4. Exportação: Salvamento dos dados tratados em arquivos .csv.
+4. *Exportação:* Salvamento dos dados tratados em arquivos .csv.
 
-5. Criação do relatório no Power BI:
+5. *Criação do relatório no Power BI:*
 
     * Construção de gráficos e dashboards interativos.
 
@@ -50,11 +56,11 @@ A análise revelou tendências importantes sobre as vendas de livros, permitindo
 
 ## 🛠️ Tecnologias Utilizadas
 
-Python (Pandas, SQLAlchemy, etc.) para tratamento e manipulação de dados.
+*Python* (Pandas, SQLAlchemy, etc.) para tratamento e manipulação de dados.
 
-SQL para extração de dados do banco, junções de tabelas e trastamentos iniciais.
+*SQL* para extração de dados do banco, junções de tabelas e trastamentos iniciais.
 
-Power BI para visualização e criação do relatório interativo.
+*Power BI* para visualização e criação do relatório interativo.
 
 
 ## 📂 Estrutura do Projeto
@@ -78,10 +84,9 @@ Power BI para visualização e criação do relatório interativo.
 
 ## 🚀 Link para o Relatório
 
-* https://app.powerbi.com/view?r=eyJrIjoiZDY2YTFhMWMtNDE5OS00YzgxLTk3NzktMjFjMmE1MTVjY2QwIiwidCI6ImU1YjA4ZjY3LWFmNDYtNGUyNy1hY2ZmLTRlOWVjNjcwZDU3NyJ9
+https://app.powerbi.com/view?r=eyJrIjoiZDY2YTFhMWMtNDE5OS00YzgxLTk3NzktMjFjMmE1MTVjY2QwIiwidCI6ImU1YjA4ZjY3LWFmNDYtNGUyNy1hY2ZmLTRlOWVjNjcwZDU3NyJ9
 
 
-Autor: Gabriel Ganassin 
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-ganassin/)
 
