@@ -1,12 +1,12 @@
-📊 Projeto de Análise de Dados - Hackday
+# 📊 Projeto de Análise de Dados - Hackday
+---
 
-
-📝 Descrição
+## 📝 Descrição
 
 Este projeto foi desenvolvido durante um Hackday e tem como objetivo realizar uma análise detalhada dos dados extraídos de um banco de dados, aplicando técnicas de tratamento, limpeza e junção de tabelas em Python. O resultado final é exportado para arquivos .csv e utilizado para construir um relatório interativo no Power BI, que apresenta insights estratégicos sobre as vendas de livros por gênero e formato.
+---
 
-
-🏗️ Fluxo do Projeto
+## 🏗️ Fluxo do Projeto
 
 1. Extração dos dados: Conexão ao banco de dados e consulta das tabelas relevantes.
 
@@ -27,9 +27,9 @@ Este projeto foi desenvolvido durante um Hackday e tem como objetivo realizar um
     * Construção de gráficos e dashboards interativos.
 
     * Geração de insights baseados nos dados analisados.
+---
 
-
-🔍 Insights Obtidos
+## 🔍 Insights Obtidos
 
 A análise revelou tendências importantes sobre as vendas de livros, permitindo identificar padrões de demanda conforme o gênero literário e o formato do livro:
 
@@ -48,18 +48,18 @@ A análise revelou tendências importantes sobre as vendas de livros, permitindo
 * Young Adult tem boa aceitação no formato Trade Paperback.
 
 * Com base nesses insights, recomenda-se priorizar a produção e distribuição de livros conforme a demanda por gênero e formato, maximizando as vendas e otimizando estoques.
+---
 
-
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Python (Pandas, SQLAlchemy, etc.) para tratamento e manipulação de dados.
 
 SQL para extração de dados do banco, junções de tabelas e trastamentos iniciais.
 
 Power BI para visualização e criação do relatório interativo.
+---
 
-
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 📁 hackday-projeto
 │-- 📂 data                                                # Arquivos CSV gerados
@@ -69,11 +69,13 @@ Power BI para visualização e criação do relatório interativo.
 │-- data-import.ipynb                                      # Scripts Python para extração e tratamento de dados
 │-- Problema de negocio hackday 9 Oficial - Copia.pdf      # Documentação do projeto
 │-- README.md                                              
+---
 
-
-🚀 Link para o Relatório
+## 🚀 Link para o Relatório
 
 * https://app.powerbi.com/view?r=eyJrIjoiZDY2YTFhMWMtNDE5OS00YzgxLTk3NzktMjFjMmE1MTVjY2QwIiwidCI6ImU1YjA4ZjY3LWFmNDYtNGUyNy1hY2ZmLTRlOWVjNjcwZDU3NyJ9
+
+---
 
 Autor: Gabriel Ganassin 
 
