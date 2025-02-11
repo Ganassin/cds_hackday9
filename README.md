@@ -60,12 +60,19 @@ Power BI para visualização e criação do relatório interativo.
 ## 📂 Estrutura do Projeto
 
 📁 hackday-projeto
+
 │-- 📂 data                                                # Arquivos CSV gerados
+
     |-- full-data.csv                                      # Dados gerais
+
     |-- sales-data.csv                                     # Dados de Vendas
+
 │-- Biblioteca de Insights.pbix                            # Arquivo do relatório Power BI
+
 │-- data-import.ipynb                                      # Scripts Python para extração e tratamento de dados
+
 │-- Problema de negocio hackday 9 Oficial - Copia.pdf      # Documentação do projeto
+
 │-- README.md                                              
 
 
